@@ -1,0 +1,21 @@
+// 页脚轮播：中文是给自己看的话，英文挑意思相近的谚语，不逐字直译
+export const QUOTES = [
+  { zh: '今天不用做到最好，做到就行。', en: 'Done is better than perfect.' },
+  { zh: '卡住的地方，往往就是你还不会的地方。', en: 'The obstacle is the way.' },
+  { zh: '记录本身就是进度。', en: 'What gets measured gets managed.' },
+  { zh: '不用等状态好，先坐下来。', en: 'Action precedes motivation.' },
+  { zh: '忘了就忘了，明天接着来。', en: 'Fall seven times, stand up eight.' },
+  { zh: '写下来，它才算发生过。', en: 'Words fly; written words remain.' },
+  { zh: '你不需要动力，你需要开始。', en: 'Well begun is half done.' },
+  { zh: '这些字比感觉可靠。', en: 'The palest ink is better than the best memory.' },
+  { zh: '往回翻翻，你已经走了不少。', en: 'Little by little, one travels far.' },
+  { zh: '慢没关系，别改方向。', en: 'Slow and steady wins the race.' },
+  { zh: '一次只做一件事。', en: 'One thing at a time.' },
+  { zh: '不会就去问，别装作懂了。', en: 'Better to ask the way than go astray.' },
+  { zh: '卡点写下来，比硬扛有用。', en: 'A problem shared is a problem halved.' },
+  { zh: '今天推进一点也算。', en: 'Every little helps.' },
+  { zh: '计划本身不是成果。', en: 'Plans are nothing; planning is everything.' },
+  { zh: '犯错不可怕，重复犯错才可怕。', en: 'The man who never made a mistake never made anything.' },
+  { zh: '复习比新学更值钱。', en: 'Repetition is the mother of learning.' },
+  { zh: '今天的十分钟，比明天的一小时可靠。', en: 'A bird in the hand is worth two in the bush.' },
+];

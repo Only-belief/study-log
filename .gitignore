@@ -1,0 +1,23 @@
+# 本地数据：你的全部记录都在这里，绝不能提交
+data.db
+data.db-shm
+data.db-wal
+
+# 口令与入口密钥
+password.txt
+secret.txt
+
+# 本机 node 路径（run.cmd 的兜底配置，不应提交）
+node-path.txt
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.lnk
+.vscode/
+.idea/
+
+# 打包产物
+share/
+dist/
+*.zip
