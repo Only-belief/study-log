@@ -1,3 +1,9 @@
+## 三步上手（Windows）
+1. 装 Node.js（https://nodejs.org，选 LTS）
+2. 下载本仓库 ZIP 并解压
+3. 双击 run.cmd，浏览器自动打开
+
+
 # 学习记录 · Study Log
 
 A tiny self-hosted study journal. Zero dependencies — one Node file, one SQLite file, opens in your browser.
